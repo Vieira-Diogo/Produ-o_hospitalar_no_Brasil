@@ -1,1 +1,3 @@
-# Produ-o_hospitalar_no_Brasil
+# Produção hospitalar no Brasil
+
+* Repositório para explorar os dados disponibilizados pelo DataSUS
